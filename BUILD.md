@@ -1,7 +1,7 @@
 # Build Instructions <!-- omit from toc -->
 
 Instructions for building this repository on Linux, Windows, and MacOS.
-i hate this 
+
 ## Table Of Contents <!-- omit from toc -->
 
 - [Contributing to the Repository](#contributing-to-the-repository)
